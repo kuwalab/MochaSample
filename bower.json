@@ -1,0 +1,18 @@
+{
+  "name": "fileTypeIcon",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kuwalab/fileTypeIcon",
+  "authors": [
+    "kuwalab"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "chai": "1.9.1"
+  }
+}
